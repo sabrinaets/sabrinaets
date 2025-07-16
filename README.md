@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 <p>I'm Sabrina, a 2nd year software engineering student at École de technologie supérieure based in Montréal, Canada. I have started programing about 3 years ago, first learning HTML and CSS to explore web design. After learning multiple other languages at university, I'm currently learning React.js and Spring boot as part of a personnal project.</p>
 
-<h2>🔭My Tech Stack</h2>
-![My Skills](https://skillicons.dev/icons?i=c,java,py,react,js,css,bootstrap,docker,postgres,spring,ts,vscode&theme=light)
+<h2>🔭My Tech Stack</h2><p align="center">
+  <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,py,react,js,css,bootstrap,docker,postgres,spring,ts,vscode&theme=light" alt="My Skills"/>
+  </a>
+</p>
+
 
