@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h2>🔭My Tech Stack</h2><p align="center">
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,react,js,css,bootstrap,docker,postgres,spring,ts,vscode&theme=light" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=c,java,py,react,js,docker,postgres,spring,ts&theme=light" alt="My Skills"/>
   </a>
 </p>
 
